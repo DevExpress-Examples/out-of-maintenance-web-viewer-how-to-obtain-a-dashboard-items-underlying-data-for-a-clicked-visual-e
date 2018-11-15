@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [UnderlyingData.js](./CS/Dashboard_UnderlyingDataWeb/Scripts/UnderlyingData.js) (VB: [UnderlyingData.js](./VB/Dashboard_UnderlyingDataWeb/Scripts/UnderlyingData.js))
+* [WebForm1.aspx](./CS/Dashboard_UnderlyingDataWeb/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_UnderlyingDataWeb/WebForm1.aspx))
+<!-- default file list end -->
 # Web Viewer - How to obtain a dashboard item's underlying data for a clicked visual element
 
 
