@@ -6,6 +6,9 @@
 * [WebForm1.aspx](./CS/Dashboard_UnderlyingDataWeb/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_UnderlyingDataWeb/WebForm1.aspx))
 <!-- default file list end -->
 # Web Viewer - How to obtain a dashboard item's underlying data for a clicked visual element
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t115445)**
+<!-- run online end -->
 
 
 <p><strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>The following example demonstrates how to get underlying data corresponding to a particular visual element using the <a href="http://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardWebScriptsASPxClientDashboardViewertopic">ASPxClientDashboardViewer</a>'s API.</p>
