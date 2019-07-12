@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # Web Viewer - How to obtain a dashboard item's underlying data for a clicked visual element
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t115445)**
+**[[Run Online]](https://codecentral.devexpress.com/t115445/)**
 <!-- run online end -->
 
 
